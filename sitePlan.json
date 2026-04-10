@@ -1,0 +1,42 @@
+{
+  "businessName": "Dee Global Collection",
+  "industry": "Restaurant & Fashion Retail",
+  "tone": "warm and inviting",
+  "tagline": "Where Great Food Meets Style",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Dee Global Collection – your destination for delicious meals and trendy fashion in Port Harcourt. Experience the perfect blend of culinary excellence and contemporary style under one roof.",
+      "imagePrompt": "Modern Nigerian restaurant and boutique storefront in Port Harcourt, warm evening lighting, welcoming entrance with glass windows showing both dining area and clothing displays, Nigerian customers enjoying food and shopping, professional photography, vibrant and inviting atmosphere",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Dee Global Collection is Port Harcourt's unique destination that brings together two essentials of modern life – exceptional dining and fashionable clothing. Located at No 24 Amaigbo Road, Ikokwu Mile 3, we pride ourselves on offering our community a comfortable space where you can enjoy a satisfying meal from our diverse menu while browsing through our curated collection of quality clothing for men, women, and children. Our commitment is simple: provide excellent service, delicious food, and stylish fashion that meets the needs of every member of your family.",
+      "imagePrompt": "Interior shot of a dual-purpose Nigerian restaurant and clothing boutique, one side showing elegant dining tables with Nigerian customers eating, other side displaying organized clothing racks with colorful garments, modern lighting, clean and spacious layout, professional commercial photography",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "What We Offer",
+      "copy": "**Restaurant Services**\nEnjoy our extensive menu featuring local Nigerian favourites, continental dishes, small chops, and refreshing drinks. Perfect for breakfast meetings, lunch breaks, family dinners, or special celebrations. Dine-in, takeaway, and special event catering available.\n\n**Fashion Collection**\nDiscover our carefully selected range of clothing for the whole family. From casual wear to corporate outfits, traditional attire to trendy pieces – we stock quality garments that suit every occasion and budget. New arrivals every week to keep you looking your best.",
+      "imagePrompt": "Split composition showing Nigerian restaurant dishes - jollof rice, grilled chicken, pepper soup on one side, and on the other side a vibrant clothing display with African print fabrics, denim, corporate wear on mannequins and racks, bright professional retail photography, Nigerian shopping context",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us Today",
+      "copy": "Stop by Dee Global Collection at No 24 Amaigbo Road, Ikokwu Mile 3, Obio/Akpor. Whether you're craving a delicious meal or looking to refresh your wardrobe, we're here to serve you. Open 7 days a week.\n\nCall or WhatsApp us to place your order, make reservations, or inquire about our latest clothing arrivals. We look forward to welcoming you!",
+      "imagePrompt": "Exterior view of Nigerian restaurant and boutique building at Amaigbo Road Port Harcourt, clear signage for Dee Global Collection, customers entering and exiting, street view with Nigerian context, daytime photography, welcoming storefront with visible address number",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+2348144474065",
+    "email": "",
+    "address": "No 24 Amaigbo Road, Ikokwu Mile 3, Obio/Akpor, Rivers State, Nigeria",
+    "whatsapp": "https://wa.me/2348144474065"
+  }
+}
